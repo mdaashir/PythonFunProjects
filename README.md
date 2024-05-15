@@ -18,9 +18,9 @@ Here's a quick overview of the projects available in this repository:
 - [host.py](host.py): Brief description of what this script does.
 - [lcm_and_gcd.py](lcm_and_gcd.py): Brief description of what this script does.
 - [Playground.py](Playground.py): Various scripts for beginners, including simple statements, basic arithmetic, and conditional operations.
-- [Prime_number.py](Prime_number.py): Brief description of what this script does.
+- [Prime_number.py](Prime_number.py): Python script finds and prints all prime numbers up to a user-specified value.
 - [sql-create.py](sql-create.py): Brief description of what this script does.
-- [tables.py](tables.py): Brief description of what this script does.
+- [tables.py](tables.py): Python script prints the multiplication table for a given number up to a specified multiple.
 - [Template.py](Template.py): Brief description of what this script does.
 - [Tester.py](Tester.py): Brief description of what this script does.
 - [Trail.py](Trail.py): Brief description of what this script does.
