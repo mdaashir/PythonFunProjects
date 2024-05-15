@@ -27,7 +27,7 @@ Here's a quick overview of the projects available in this repository:
 - [try.py](try.py): Brief description of what this script does.
 - [waterbucket.py](waterbucket.py): Brief description of what this script does.
 - [welcome.py](welcome.py): Brief description of what this script does.
-- [zigzag.py](zigzag.py): Brief description of what this script does.
+- [zigzag.py](zigzag.py): Python script to generate a back-and-forth horizontal animation of asterisks.
 
 ## 🌟 Get Started
 
