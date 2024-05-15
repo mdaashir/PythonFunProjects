@@ -12,8 +12,8 @@ Here's a quick overview of the projects available in this repository:
 
 - [alpha.py](alpha.py): Python script to generate a triangular pattern of characters starting from 'A'.
 - [crash.py](crash.py): Brief description of what this script does.
-- [Days_of_week.py](Days_of_week.py): Brief description of what this script does.
-- [dna.py](dna.py): Brief description of what this script does.
+- [Days_of_week.py](Days_of_week.py): Python script converts a user-inputted date into the corresponding day of the week.
+- [dna.py](dna.py): Python script animates a DNA double-helix with randomly selected nucleotide pairs.
 - [error.py](error.py): Brief description of what this script does.
 - [host.py](host.py): Brief description of what this script does.
 - [lcm_and_gcd.py](lcm_and_gcd.py): Brief description of what this script does.
@@ -25,7 +25,7 @@ Here's a quick overview of the projects available in this repository:
 - [Tester.py](Tester.py): Brief description of what this script does.
 - [Trail.py](Trail.py): Brief description of what this script does.
 - [try.py](try.py): Brief description of what this script does.
-- [waterbucket.py](waterbucket.py): Brief description of what this script does.
+- [waterbucket.py](waterbucket.py): Python script simulates a water bucket puzzle game where the player must measure exactly 4 liters using an 8L, 5L, and 3L bucket through filling, emptying, and pouring actions.
 - [welcome.py](welcome.py): Brief description of what this script does.
 - [zigzag.py](zigzag.py): Python script to generate a back-and-forth horizontal animation of asterisks.
 
