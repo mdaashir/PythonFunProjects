@@ -14,19 +14,19 @@ Here's a quick overview of the projects available in this repository:
 - [crash.py](crash.py): Brief description of what this script does.
 - [Days_of_week.py](Days_of_week.py): Python script converts a user-inputted date into the corresponding day of the week.
 - [dna.py](dna.py): Python script animates a DNA double-helix with randomly selected nucleotide pairs.
-- [error.py](error.py): Brief description of what this script does.
+- [error.py](error.py): Python script is designed to simulate a continuous and repeating system error message.
 - [host.py](host.py): Brief description of what this script does.
-- [lcm_and_gcd.py](lcm_and_gcd.py): Brief description of what this script does.
+- [lcm_and_gcd.py](lcm_and_gcd.py): Python code calculates the GCD and LCM of numbers in a list.
 - [Playground.py](Playground.py): Various scripts for beginners, including simple statements, basic arithmetic, and conditional operations.
 - [Prime_number.py](Prime_number.py): Python script finds and prints all prime numbers up to a user-specified value.
-- [sql-create.py](sql-create.py): Brief description of what this script does.
+- [sql-create.py](sql-create.py): script performs basic operations on a SQLite database. It allows the user to create a table, insert data into the table, and delete the table.
 - [tables.py](tables.py): Python script prints the multiplication table for a given number up to a specified multiple.
 - [Template.py](Template.py): Brief description of what this script does.
 - [Tester.py](Tester.py): Brief description of what this script does.
 - [Trail.py](Trail.py): Brief description of what this script does.
 - [try.py](try.py): Brief description of what this script does.
 - [waterbucket.py](waterbucket.py): Python script simulates a water bucket puzzle game where the player must measure exactly 4 liters using an 8L, 5L, and 3L bucket through filling, emptying, and pouring actions.
-- [welcome.py](welcome.py): Brief description of what this script does.
+- [welcome.py](welcome.py): Python script greets the user, checks their age to determine if they can vote.
 - [zigzag.py](zigzag.py): Python script to generate a back-and-forth horizontal animation of asterisks.
 
 ## 🌟 Get Started
