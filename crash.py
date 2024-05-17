@@ -14,9 +14,7 @@ class SystemErrorWindow:
         self.label = tk.Label(self.root, text="System Error!!!", font=("Arial", 14))
         self.label.pack(padx=20, pady=20)
 
-        # Bind the close event to create a new window if there are remaining windows to create
-        if self.remaining > 0:
-            self.root.protocol("WM_DELETE_WINDOW", self.create_next_window)
+        self.root.protocol("WM_DELETE_WINDOW", self.create_next_window)
 
     def create_next_window(self):
         # Create the next window with half the remaining count
